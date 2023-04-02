@@ -20,7 +20,7 @@ To use this system, you must first have PHP and MySQL installed on your machine.
 
 To install the Student Grievance System, follow these steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/your-username/student-grievance-system.git`
+1. Clone the repository to your local machine using `git clone https://github.com/piyush-p7/student-grievance-system.git`
 2. Import the SQL file `database.sql` into your MySQL database to create the necessary tables.
 3. Rename the `config-example.php` file to `config.php` and update the database connection settings to match your MySQL configuration.
 4. Open the project in your web server or run `php -S localhost:8000` in the project directory to start the PHP built-in web server.
